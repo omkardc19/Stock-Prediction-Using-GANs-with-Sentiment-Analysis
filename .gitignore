@@ -1,3 +1,21 @@
+s1/
+models_gan/
+models_lstm/
+stock_env/
+stock_env2/
+stock_bert/
+__pycache__/
+*.keras
+
+
+
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
