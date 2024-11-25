@@ -6,9 +6,9 @@ import pandas as pd
 client = Client('en-US')
 
 # Twitter account credentials (avoid hardcoding sensitive credentials in production)
-USERNAME = 'omkardc18'
-EMAIL = 'omkardc18@gmail.com'
-PASSWORD = 'oDc@1919'
+USERNAME = 'USERNAME'
+EMAIL = 'EMAIL'
+PASSWORD = 'PASSWORD'
 
 # Function to log in to Twitter
 async def login():
